@@ -17,7 +17,7 @@ Make sure you have Node.js and npm installed.
 
 1. Clone or Download the repository
 
-	`$ git clone https://github.com/yashAgarwal41/Real-time-Chat-app.git`
+	`$ git clone https://github.com/23samjain/Real-time-Chat-app.git`
   
     `$ cd Real-time-Chat-app`
 	
@@ -48,4 +48,4 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 ### Support or Contact:
 
-Having trouble with Pages? Feel free to send me a mail at yashagarwal94144@gmail.com
+Having trouble with Pages? Feel free to send me a mail at jainsam2302@gmail.com
